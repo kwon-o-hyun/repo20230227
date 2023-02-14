@@ -15,7 +15,8 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Hello, this is my demo application for Azure Static Web. 
-            All your update after are pushed to Github will be deployed by Azure Static Web
+            All your update after are pushed to Github will be deployed by Azure Static Web.
+            This is second update.
           </p>
         </div>
       </main>
